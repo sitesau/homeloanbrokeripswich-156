@@ -1,0 +1,22 @@
+{
+  "wheel_id": 946,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-156",
+  "project": "mortgage-broker-ipswich-eligibility-cca47f9e6266b2d578c233778e7",
+  "parent_t1_ref": "homeloanbrokeripswich-015",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich eligibility",
+  "intended_url": "http://mortgage-broker-ipswich-eligibility-cca47f9e6266b2d578c233778e7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "efbb0ba5a36cbfa4",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-ipswich-homeloanbrokeripswich-015/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-ipswich-homeloanbrokeripswich-015/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
